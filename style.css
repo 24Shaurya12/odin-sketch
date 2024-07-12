@@ -1,0 +1,22 @@
+.box{
+    border: 1px solid green;
+    flex: auto;
+    aspect-ratio: 1;
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+    width: 40%;
+    margin: 0 auto;
+    border-left: 1px solid green;
+    border-right: 1px solid green;
+}
+
+.rowNumber1 {
+    border-top: 1px solid green;
+}
+
+.rowLast {
+    border-bottom: 1px solid green;
+}
