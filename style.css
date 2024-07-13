@@ -1,5 +1,5 @@
 .box{
-    border: 1px solid green;
+    border: 1px solid black;
     flex: auto;
     aspect-ratio: 1;
     box-sizing: border-box;
@@ -9,14 +9,14 @@
     display: flex;
     width: 40%;
     margin: 0 auto;
-    border-left: 1px solid green;
-    border-right: 1px solid green;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 
 .rowNumber1 {
-    border-top: 1px solid green;
+    border-top: 1px solid black;
 }
 
 .rowLast {
-    border-bottom: 1px solid green;
+    border-bottom: 1px solid black;
 }
